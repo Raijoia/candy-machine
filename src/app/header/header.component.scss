@@ -1,0 +1,21 @@
+.header {
+  background-color: #050C42;
+  height: 6rem;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 40% 60%;
+  color: white;
+  align-items: center;
+  font-family: 'Open Sans', sans-serif;
+  padding: 0.3rem 2rem;
+  &__img {
+    width: 6.25rem;
+    height: 5.313rem;
+  }
+  &__tittle {
+    font-size: 2rem;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+  }
+}
