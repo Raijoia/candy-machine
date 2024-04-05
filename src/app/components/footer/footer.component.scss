@@ -6,7 +6,10 @@
     position:relative;
     margin-top: 1.5rem;
     background: #050C42;
-    bottom: 0;
+    width: 100vw;
+    position:absolute;
+    bottom:0;
+    left:0;
     &__content {
         text-align: center;
         font-size: 1.125rem;
