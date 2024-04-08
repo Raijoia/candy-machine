@@ -1,4 +1,5 @@
 export interface ICandy {
-    name: string;
-    value: number;
+  select: number;
+  name: string;
+  value: number;
 }
