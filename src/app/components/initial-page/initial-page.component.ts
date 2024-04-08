@@ -13,17 +13,17 @@ export class InitialPageComponent {
   candy: ICandy[] = [
     {
       select: 1,
-      name: 'crunch',
+      name: 'Crunch',
       value: 5,
     },
     {
       select: 2,
-      name: 'snickers',
+      name: 'Snickers',
       value: 6,
     },
     {
       select: 3,
-      name: 'twix',
+      name: 'Twix',
       value: 7,
     },
   ];
